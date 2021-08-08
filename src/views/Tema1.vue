@@ -8,28 +8,28 @@
         span 1
       h1 Marco Normativo
 
-    figure.mb-5
+    figure.mb-5(data-aos="slide-left" data-aos-duration="1500")
       img(src="@/assets/curso/tema1-imagen1.png")
 
-    #t_1_1.titulo-segundo
+    #t_1_1.titulo-segundo(data-aos="flip-up")
       h2 1.1  Introducción
 
-    .cajon.color-primario.p-5.mb-4
+    .cajon.color-primario.p-5.mb-4(data-aos="slide-right" data-aos-duration="1500")
         p Para iniciar, la gestión de procesos con personas fallecidas no identificadas (PNI) e identificadas no reclamadas (PINR) en cementerios, es necesario abordar la normativa vigente relacionada con PNI y PINR y cómo fundamentan la gestión de procesos en los cementerios.
     
-    Separador
+    Separador(data-aos="fade-in")
 
-    #t_1_2.titulo-segundo
+    #t_1_2.titulo-segundo(data-aos="flip-up")
       h2 1.2  Normativa nacional
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="slide-left" data-aos-duration="1500")
       .col-lg-9.text-center
         p.mb-0 Se inicia entonces con algo que en la literatura jurídica se denomina el bloque de constitucionalidad, pero:
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="slide-right" data-aos-duration="1500")
       .col-lg-8
         figure
           img(src="@/assets/curso/tema1-imagen2.svg")
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="slide-left" data-aos-duration="1500")
       .col-lg-10
         p.mb-5 El bloque de constitucionalidad es una forma de denominar un conjunto integrado por la Constitución Política de 1991 su preámbulo, sus principios, las leyes orgánicas, algunos tratados y convenios internacionales de derechos humanos y las leyes estatutarias, son fundamentales para entender la importancia de nuestras funciones.
         figure.mb-5
@@ -39,15 +39,15 @@
           i.fas.fa-quote-right
           h4.mb-2 La gestión de procesos en cementerios con PNI Y PINR, tiene su cimiento en el bloque de constitucionalidad, toda vez que es un tema íntimamente ligado con la dignidad, los derechos humanos, los derechos fundamentales y la función del Estado
           span -  Primera premisa
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="slide-right" data-aos-duration="1500")
       .col-lg-9
         .box-border-color.color-primario.px-5
           p.mb-0 Durante el desarrollo de este componente se encontrarán términos como <strong>“ley” “decreto” “resolución” “guía” “acto de servicio”</strong> que, si bien son distintos entre sí por quien los expide, su orientación o su finalidad, son parte de la normativa o legislación, que regulan la labor y por lo tanto se debe tenerlos en cuenta.
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="slide-left" data-aos-duration="1500")
       .col-auto
         .px-5.py-2(style="background-color: #FCF8F4")
           strong Se puede conocerlos a continuación
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="slide-right" data-aos-duration="1500")
       .col-lg-10
         .tarjeta.tarjeta--gris.p-4.mb-5
           LineaTiempoC.color-acento-contenido(text-small)
@@ -173,14 +173,14 @@
         
         p.mb-5 Actualmente se debe tener como referente la <strong>Guía de Orientaciones para el manejo, traslado y disposición final de cadáveres por SARS-CoV-2 (COVID-19)</strong> del Ministerio de Salud y Protección Social, que desarrolla el tema del COVID frente a los cementerios, manejo y traslado de cadáveres.
     
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="slide-left" data-aos-duration="1500")
       .col-lg-7
         figure
           img(src="@/assets/curso/tema1-imagen13.svg")
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="slide-right" data-aos-duration="1500")
       .col-lg-auto
         p.mb-0 Se puede conocer aquí la guía
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="slide-left" data-aos-duration="1500")
       .col-lg-7
         a.anexo.mb-4(:href="obtenerLink('/downloads/manejo-cadaveres-covid-19f.pdf')" target="_blank")
           .anexo__icono
@@ -189,16 +189,16 @@
             p 
               strong Anexo.  
               | Guía de Orientaciones para el manejo, traslado y disposición final de cadáveres por SARS-CoV-2 (COVID-19) 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="slide-right" data-aos-duration="1500")
       .col-lg-10
         .cajon.color-secundario.px-5.py-4.mb-4
           p.mb-0 En este recorrido normativo, se puede observar cómo los procesos de gestión de personas fallecidas no identificadas (PNI) e identificadas no reclamadas (PINR) en cementerios han cobrado vital importancia. Si bien no es necesario memorizar el consecutivo de cada una de las normas que los regulan, se debe conocer, referenciar e identificar su existencia y contenido, para contribuir desde la labor a la construcción de la paz, la memoria, la reparación y el duelo de las familias.
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="slide-left" data-aos-duration="1500")
       .col-lg-7
         figure.mb-5
           img(src="@/assets/curso/tema1-imagen14.svg")
         p.mb-0.text-center Identifica las medidas dispuestas en el Decreto 303 de 2015, para la preservación de los cadáveres no identificados o identificados no reclamados.
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="slide-right" data-aos-duration="1500")
       .col-lg-5
         a.anexo.mb-4(:href="obtenerLink('/downloads/decreto_303_de_2015_0.pdf')" target="_blank")
           .anexo__icono
@@ -208,17 +208,17 @@
               strong Anexo.  
               | Decreto número 0303 del 2015.
     
-    Separador
+    Separador(data-aos="fade-in" data-aos-duration="1500")
 
-    #t_1_3.titulo-segundo
+    #t_1_3.titulo-segundo(data-aos="flip-up")
       h2 1.3  Referentes internacionales
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="slide-top" data-aos-duration="1500")
       .col-lg-10
         .cajon.color-secundario.px-5.py-4.mb-4
           p.mb-0 La normatividad internacional que regula las personas fallecidas <strong>no identificadas</strong> e <strong>identificadas</strong> no reclamadas son
     
-    figure
+    figure(data-aos="slide-bottom" data-aos-duration="1500")
       img(src="@/assets/curso/tema1-imagen15.svg")
     
   
