@@ -24,116 +24,26 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Componentes',
+        titulo: 'Marco Normativo',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Encabezados',
-            hash: 'encabezados',
+            titulo: 'Introducción',
+            hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Párrafos',
-            hash: 'parrafos',
+            titulo: 'Normativa nacional',
+            hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Botones',
-            hash: 'botones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Listas',
-            hash: 'listas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Tablas',
-            hash: 'tablas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Imagen',
-            hash: 'imagen',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.7',
-            titulo: 'Imagen Infográfica',
-            hash: 'imagen_infografica',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.8',
-            titulo: 'Video',
-            hash: 'video',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.9',
-            titulo: 'Bloques de texto destacado',
-            hash: 'texto_destacado',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.10',
-            titulo: 'Sliders',
-            hash: 'sliders',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.11',
-            titulo: 'Acordiones',
-            hash: 'acordiones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.12',
-            titulo: 'Pestañas o Tabs',
-            hash: 'tabs',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.13',
-            titulo: 'Líneas de tiempo',
-            hash: 'lineas_tiempo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.14',
-            titulo: 'Pasos',
-            hash: 'pasos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.15',
-            titulo: 'Llamados a la acción',
-            hash: 'llamados_accion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.16',
-            titulo: 'Tarjetas',
-            hash: 'tarjetas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.17',
-            titulo: 'Tarjetas con número',
-            hash: 'tarjeta_numero',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.18',
-            titulo: 'Modal',
-            hash: 'modal',
+            titulo: ' Referentes internacionales ',
+            hash: 't_1_3',
           },
         ],
       },
@@ -141,90 +51,21 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Producción Audiovisual',
+        titulo:
+          'Personas no identificadas y personas identificadas no reclamadas en los cementerios',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Infografía Animada',
+            titulo: 'Persona no identificada (PNI)',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Video Motion',
+            titulo: 'Persona identificada no reclamada (PINR)',
             hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Motion + Presentador',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Animación 2D',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Video interactivo',
-            hash: 't_2_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.6',
-            titulo: 'Infografías',
-            hash: 't_2_6',
-          },
-        ],
-      },
-      {
-        nombreRuta: 'tema3',
-        icono: 'far fa-file-alt',
-        numero: '3',
-        titulo: 'Fundamentación Textil',
-        desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Identificación fibras por combustión',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Clasificación de los hilos',
-            hash: 't_3_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Clasificación de tejidos',
-            hash: 't_3_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.5',
-            titulo: 'Caracterización de los tejidos',
-            hash: 't_3_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.6',
-            titulo: 'Procesos textiles',
-            hash: 't_3_6',
           },
         ],
       },
@@ -266,134 +107,140 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'Constitución Política de Colombia [Const]. 7 de julio de 1991 (Colombia).',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'Decreto 1862 de 2014. [Ministerio de justicia]. Por la cual se establece el reglamento de la Comisión de Búsqueda de Personas Desaparecidas creada por la Ley 589 de 2000. Septiembre 26 de 2014.',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Decreto 303 de 2015. [Ministerio del interior]. Por el cual se reglamenta la Ley 1408 de 2010. Febrero 20 de 2015.',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'Decreto 4800 de 2011. [Ministerio de justicia]. Por la cual se reglamenta la Ley 1448 de 2011 y se dictan otras disposiciones. Diciembre 20 de 2011.',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
+        'Decreto 589 de 2017. [Instituto Nacional de Medicina Legal y Ciencias Forenses]. Por el cual se organiza la Unidad de Búsqueda de Personas dadas por desaparecidas en el contexto y debido al conflicto armado. Abril 05 de 2017.',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'Directiva 006 del 7 mayo 2018. [Procuraduría General de la Nación]. Instrucciones a los funcionarios del Ministerio público sobre el seguimiento a los procedimientos para garantizar y facilitar la búsqueda de personas desaparecidas.',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Gómez, J. (2010). Tratado de derecho Constitucional. Editorial Ariadna.',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'Ley 1408 de 2010. Por medio de la cual se rinde homenaje a las víctimas del delito de desaparición forzada y se dictan medidas para su localización e identificación. Agosto 20 de 2010. DO. N° N/A.',
+    },
+    {
+      referencia:
+        'Ley 1448 de 2011. Por la cual se dictan medidas de atención, asistencia y reparación integral a las víctimas del conflicto armado interno y se dictan otras disposiciones. Junio 10 de 2011. DO. N° 48.096.',
+    },
+    {
+      referencia:
+        'Ley 38 de 1993. Por la cual se unifica el sistema de dactiloscopia y se adopta la Carta Dental para fines de identificación. Enero 15 de 1993. DO. N°40.724.',
+    },
+    {
+      referencia:
+        'Ley 589 de 2000. Por medio de la cual se tipifica el genocidio, la desaparición forzada, el desplazamiento forzado y la tortura; y se dictan otras disposiciones. Julio 6 de 2000. DO. N° 44.073.',
+    },
+    {
+      referencia:
+        'Ley 589 de 2000. Por medio de la cual se tipifica el genocidio, la desaparición forzada, el desplazamiento forzado y la tortura; y se dictan otras disposiciones. Julio 6 de 2000. DO. N° 44.073.',
+    },
+    {
+      referencia:
+        'Ley 9 de 1979. Por la cual se dictan Medidas Sanitarias. Enero 24 de 1979. DO. N° 35.193.',
+    },
+    {
+      referencia:
+        'Ley 971 de 2005. Por medio de la cual se reglamenta el mecanismo de búsqueda urgente y se dictan otras disposiciones. Julio 14 de 2005. DO. N° 45.970.',
+    },
+    {
+      referencia:
+        'Resolución 1447 de 2009. [Ministerio de protección social]. Por la cual se reglamenta la prestación de los servicios de cementerios, inhumación, exhumación y cremación de cadáveres. Mayo 11 de 2009.',
+    },
+    {
+      referencia:
+        'Resolución 248 de 2001. [Instituto Nacional de Medicina Legal y Ciencias Forenses]. Por la cual se dictan unas disposiciones para el funcionamiento de la Red para la identificación de cadáveres. Mayo 02 de 2001.',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Adipocira',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'grasa producida por la descomposición de cadáveres sumergidos en agua o sepultados en terreno húmedo.',
     },
     {
-      termino: 'Suftware',
+      termino: 'Cadáver',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'cuerpo humano sin vida, en cualquier estado, fresco, descompuesto o conservado, momificado o adipocira, esquelético o mixto, completo o incompleto.  Debe estar certificado previamente a su inhumación o disposición final.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Cementerio',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'ugar destino para recibir, alojar los cadáveres y restos humanos, en cualquiera de los espacios adecuados para ello.',
     },
     {
-      termino: 'Áectores',
-      significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+      termino: 'Custodia',
+      significado: 'guardar algo con cuidado y vigilancia.',
     },
     {
-      termino: 'Moda',
+      termino: 'Derechos Humanos',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'son aquellas condiciones instrumentales que le permiten a la persona su realización. En consecuencia, subsume aquellas libertades, facultades, instituciones o reivindicaciones relativas a bienes primarios o básicos​ que incluyen a toda persona, por el simple hecho de su condición humana, para la garantía de una vida digna, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier otra índole, origen nacional o social, posición económica o cualquier otra condición. (Gómez, 2010).',
     },
     {
-      termino: 'Diseño',
+      termino: 'Fenotípicas',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'manifestación variable del genotipo de un organismo en un determinado ambiente.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Genotípicas',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'conjunto de genes de un individuo, de acuerdo con su composición alélica.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Individualización',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
+        'especificar, distinguir una cosa de otras por cualidades peculiares. Distinguir un individuo de otros de la especie.',
     },
     {
-      termino: 'Interés Inferior del menor',
+      termino: 'NN',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'hace referencia a Nomen Nescio, una expresión latina que significa “desconozco el nombre” y en nuestro contexto aún es usado para denominar aquellas personas que han muerto y de las cuales desconocemos su procedencia, nombre u otro rasgo que permita su identificación.',
     },
     {
-      termino: 'Interseccionalidad',
+      termino: 'Normativa',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'disposición de leyes y decretos que fundamentan una actividad.',
     },
     {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'PINR',
+      significado: 'Personas Identificadas No Reclamadas.',
+    },
+    {
+      termino: 'PNI',
+      significado: 'Persona No Identificada.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Ministerio de Salud y Protección Social. (2020). Orientaciones para el manejo, traslado y disposición final de cadáveres por SARS-COV-2 (COVID-19).',
+      tipo: 'Guía',
+      descarga: '/downloads/manejo-cadaveres-covid-19f.pdf',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Decreto 303 de 2015. [Ministerio del interior]. Por el cual se reglamenta la Ley 1408 de 2010. Febrero 20 de 2015.',
+      tipo: 'Decreto',
+      descarga: '/downloads/decreto_303_de_2015_0.pdf',
     },
   ],
   creditos: {
