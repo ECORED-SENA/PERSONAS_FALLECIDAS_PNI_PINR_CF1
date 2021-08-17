@@ -52,7 +52,7 @@ export default {
         icono: 'far fa-file-alt',
         numero: '2',
         titulo:
-          'Personas no identificadas y personas identificadas no reclamadas en los cementerios',
+          'Personas no identificadas (PNI) y personas identificadas no reclamadas en los cementerios (PINR)',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -131,7 +131,7 @@ export default {
     },
     {
       referencia:
-        'Gómez, J. (2010). Tratado de derecho Constitucional. Editorial Ariadna.',
+        'Gómez, J. (2010). <i>Tratado de derecho Constitucional</i>. Editorial Ariadna.',
     },
     {
       referencia:
@@ -258,6 +258,42 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
+      {
+        nombre: 'John Alejandro Carmona Escobar',
+        cargo: 'Instructor experto temático',
+        centro: 'Centro de Servicios de Salud Regional Antioquia',
+      },
+      {
+        nombre: 'Jhacesiz Mary Hincapié Atehortúa',
+        cargo:
+          'Instructora (EPC) – líder desarrollo curricular Servicios Personales',
+        centro: 'Centro de Servicios de Salud Regional Antioquia',
+      },
+      {
+        nombre: 'Adriana María Bustamante Cataño',
+        cargo: 'Profesional de Diseño y producción curricular',
+        centro: 'Centro de Servicios de Salud Regional Antioquia',
+      },
+      {
+        nombre: 'Cristian Metaute Medina',
+        cargo: 'Diseñador instruccional',
+        centro: 'Grupo de gestión curricular ECORED',
+      },
+      {
+        nombre: 'Paola Alexandra Moya',
+        cargo: 'Diseñadora Instruccional',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'Vilma Lucia Perilla M',
+        cargo: 'Revisora metodológica y pedagógica.',
+        centro: 'Centro de Gestión Industrial. Regional Distrito Capital',
+      },
+      {
+        nombre: 'Jhon Jairo Rodríguez Pérez',
+        cargo: 'Diseñador y evaluador instruccional',
+        centro: 'Centro de Gestión Industrial. Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
@@ -272,25 +308,19 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Oscar Ivan Uribe Ortiz',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Sergio Omar Camacho Orduz',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
+        nombre: 'María Camila Ovalle Ospina',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

@@ -31,7 +31,7 @@
           img(src="@/assets/curso/tema1-imagen2.svg")
     .row.justify-content-center.mb-5(data-aos="slide-left" data-aos-duration="1500")
       .col-lg-10
-        p.mb-5 El bloque de constitucionalidad es una forma de denominar un conjunto integrado por la Constitución Política de 1991 su preámbulo, sus principios, las leyes orgánicas, algunos tratados y convenios internacionales de derechos humanos y las leyes estatutarias, son fundamentales para entender la importancia de nuestras funciones.
+        p.mb-5 El bloque de constitucionalidad es una forma de denominar un conjunto integrado por la <strong>Constitución Política de 1991</strong> su preámbulo, sus principios, las leyes orgánicas, algunos tratados y convenios internacionales de derechos humanos y las leyes estatutarias, son fundamentales para entender la importancia de nuestras funciones.
         figure.mb-5
           img(src="@/assets/curso/tema1-imagen3.svg")
         p.mb-5 Los componentes del bloque de constitucionalidad desarrollan conceptos esenciales para la gestión de las PNI y PINR, como la dignidad humana, los derechos fundamentales, las funciones de las ramas y órganos del poder público, como se verá más adelante no solo dignifican el tratamiento de las PNI y PINR sino que ayudan a comprender las obligaciones del Estado y los derechos de las familias.
@@ -112,7 +112,7 @@
                   | en la cual se rinde un homenaje a las víctimas de desaparición forzada, se adoptan medidas para su localización, se desarrolla el tema de los perfiles genéticos de desaparecidos, la asistencia a las familias de las víctimas y el registro SIRDEC (Sistema de Identificación Red de Desaparecidos y Cadáveres).  Esta ley impone una obligación: en los cementerios, los restos y cadáveres sean enterrados de manera individualizada y no en fosas comunes, con documentación rigurosa sobre su ubicación en el mismo y con garantía en la conservación y marcación de las tumbas por los administradores de los cementerios.
             .row(titulo="2011").px-5
               p.mb-5
-                strong La Ley 1448 del 10 de junio 2011,  
+                strong La Ley 1448 del 10 de junio 2011:  
                 | por la cual se dictan medidas de atención, asistencia y reparación integral a las víctimas del conflicto armado interno y se dictan otras disposiciones, a su vez, es importante, los temas de atención, asistencia y reparación integral a las víctimas del conflicto armado, disponiéndose como una medida de satisfacción, entendida como una acción que proporciona bienestar y contribuye a mitigar el dolor de la víctima, el contribuir a la búsqueda de desaparecidos y colaborar con la identificación de los cadáveres y su inhumación posterior, según las indicaciones y tradiciones familiares y comunitarias.
               .cajon.color-acento-botones.px-5.py-4.mb-4
                 p.mb-0
@@ -129,10 +129,10 @@
                   strong Ley 589 de 2000 y el Decreto 589 de 2017  
                   | por el cual se organiza la Unidad de Búsqueda de personas dadas por desaparecidas en el contexto y en razón del conflicto armado.
             .row(titulo="2015").px-5
-              p.mb-5 La Ley la 1408 fue a su vez reglamentada por el Decreto 303 de 2015, que desarrolla los temas de localización, identificación, inhumación y homenaje a las víctimas del delito de desaparición forzada, banco de perfiles genéticos, entrega de cuerpos o restos humanos de víctimas identificadas, atención psicosocial en el proceso de entrega, mapas y conservación de cuerpos o restos humanos no identificados o identificados no reclamados. 
+              p.mb-5 La <strong>Ley la 1408</strong> fue a su vez reglamentada por <strong>el Decreto 303 de 2015</strong>, que desarrolla los temas de localización, identificación, inhumación y homenaje a las víctimas del delito de desaparición forzada, banco de perfiles genéticos, entrega de cuerpos o restos humanos de víctimas identificadas, atención psicosocial en el proceso de entrega, mapas y conservación de cuerpos o restos humanos no identificados o identificados no reclamados. 
                 br
                 br
-                | Una buena ayuda de memoria sobre las medidas que se establecen en el Decreto 303 de 2015 que nos pueden servir como guía en nuestro trabajo para la preservación de los cadáveres no identificados o identificados no reclamados es la siguiente, 7 medidas resumidas así:
+                | Una buena ayuda de memoria sobre las medidas que se establecen en el <strong>Decreto 303 de 2015</strong> que nos pueden servir como guía en nuestro trabajo para la preservación de los cadáveres no identificados o identificados no reclamados es la siguiente, 7 medidas resumidas así:
               ol.lista-ol--cuadro
                 li 
                   .lista-ol--cuadro__vineta
@@ -179,7 +179,7 @@
           img(src="@/assets/curso/tema1-imagen13.svg")
     .row.justify-content-center.mb-4(data-aos="slide-right" data-aos-duration="1500")
       .col-lg-auto
-        p.mb-0 Se puede conocer aquí la guía
+        p.mb-0 Se puede conocer aquí la guía:
     .row.justify-content-center.mb-4(data-aos="slide-left" data-aos-duration="1500")
       .col-lg-7
         a.anexo.mb-4(:href="obtenerLink('/downloads/manejo-cadaveres-covid-19f.pdf')" target="_blank")
@@ -197,7 +197,8 @@
       .col-lg-7
         figure.mb-5
           img(src="@/assets/curso/tema1-imagen14.svg")
-        p.mb-0.text-center Identifica las medidas dispuestas en el Decreto 303 de 2015, para la preservación de los cadáveres no identificados o identificados no reclamados.
+        p.mb-0.text-center
+          strong Identifica las medidas dispuestas en el Decreto 303 de 2015, para la preservación de los cadáveres no identificados o identificados no reclamados.
     .row.justify-content-center.mb-4(data-aos="slide-right" data-aos-duration="1500")
       .col-lg-5
         a.anexo.mb-4(:href="obtenerLink('/downloads/decreto_303_de_2015_0.pdf')" target="_blank")
@@ -216,7 +217,7 @@
     .row.justify-content-center.mb-4(data-aos="slide-top" data-aos-duration="1500")
       .col-lg-10
         .cajon.color-secundario.px-5.py-4.mb-4
-          p.mb-0 La normatividad internacional que regula las personas fallecidas <strong>no identificadas</strong> e <strong>identificadas</strong> no reclamadas son
+          p.mb-0 La normatividad internacional que regula las personas fallecidas <strong>no identificadas</strong> e <strong>identificadas no reclamadas</strong> son:
     
     figure(data-aos="slide-bottom" data-aos-duration="1500")
       img(src="@/assets/curso/tema1-imagen15.svg")
