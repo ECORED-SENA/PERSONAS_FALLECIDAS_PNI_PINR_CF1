@@ -46,18 +46,6 @@
     SlyderE(indicadores="derecha")(data-aos="fade-in" data-aos-duration="1500")
       .row
         .col-md-6.mb-4.mb-md-0
-          p.mb-5 En el hospital de una región del país, ingresa una persona inconsciente y durante la atención hospitalaria fallece. Al revisar sus prendas, el personal de salud encontró su cédula de ciudadanía, pero ninguna persona se acerca para reconocerlo, ni se asocia con alguna familia.
-          figure.mb-4
-            img(src="@/assets/curso/tema2-imagen2.svg")
-          .row.justify-content-center
-            .col-lg-6
-              p.mb-0.text-center En este caso estamos hablando de una persona identificada no reclamada. 
-
-        .col-md-6
-          figure
-            img(src='@/assets/curso/tema2-imagen3.png')
-      .row
-        .col-md-6.mb-4.mb-md-0
           p.mb-5 En un municipio, a las afueras de la zona urbana, se encuentra una persona fallecida, con signos de violencia y sin ningún tipo de documento de identificación. 
           figure.mb-4
             img(src="@/assets/curso/tema2-imagen4.svg")
@@ -69,6 +57,19 @@
           figure
             img(src='@/assets/curso/tema2-imagen5.png')
 
+      .row
+        .col-md-6.mb-4.mb-md-0
+          p.mb-5 En el hospital de una región del país, ingresa una persona inconsciente y durante la atención hospitalaria fallece. Al revisar sus prendas, el personal de salud encontró su cédula de ciudadanía, pero ninguna persona se acerca para reconocerlo, ni se asocia con alguna familia.
+          figure.mb-4
+            img(src="@/assets/curso/tema2-imagen2.svg")
+          .row.justify-content-center
+            .col-lg-6
+              p.mb-0.text-center En este caso estamos hablando de una persona identificada no reclamada. 
+
+        .col-md-6
+          figure
+            img(src='@/assets/curso/tema2-imagen3.png')
+      
 </template>
 
 <script>

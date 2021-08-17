@@ -17,7 +17,8 @@
           figure
             img(src="@/assets/curso/intro-1.png")
         .col-lg-7
-          p.mb-0 <strong>El manejo integral de las víctimas y de la persona fallecida no identificada,  e identificada no reclamada</strong>, se constituye en un derecho que obliga al Estado y a otras instancias a la implementación de medidas adecuadas, para la reparación, restitución de derechos y garantías de no repetición en todas sus dimensiones tal como lo plantea la <strong>normatividad vigente</strong>, por lo cual se implementan acciones de búsqueda, identificación y entrega en condiciones de dignidad de los cuerpos o restos humanos de las personas desaparecidas. 
+          p.mb-0 
+            strong El manejo integral de las víctimas y de la persona fallecida no identificada,  e identificada no reclamada, se constituye en un derecho que obliga al Estado y a otras instancias a la implementación de medidas adecuadas, para la reparación, restitución de derechos y garantías de no repetición en todas sus dimensiones tal como lo plantea la normatividad vigente, por lo cual se implementan acciones de búsqueda, identificación y entrega en condiciones de dignidad de los cuerpos o restos humanos de las personas desaparecidas. 
     .row.justify-content-center(data-aos="fade-in" data-aos-duration="3000")
       .col-lg-10
         .box-border-color.color-primario.px-5

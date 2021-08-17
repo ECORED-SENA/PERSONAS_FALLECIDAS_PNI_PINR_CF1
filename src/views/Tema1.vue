@@ -90,10 +90,15 @@
               p.mb-5
                 strong Ley 971 de 2005,  
                 | por la cual se reglamenta el mecanismo de búsqueda urgente, que es un instrumento mediante el cual se busca, que las autoridades judiciales, en forma inmediata, adelanten todas las diligencias que sean necesarias para la localización de personas que se presumen han sido desaparecidas. Hay dos elementos que permiten reflexionar sobre nuestra labor, el primero es que la Ley establece entre los derechos de los familiares de la persona desaparecida, el obtener la entrega inmediata del cadáver cuando se activó el mecanismo y la persona fue hallada sin vida, en segundo lugar,  la Ley resalta la importancia de los registros de personas desaparecidas o cadáveres sin identificar, para realizar la confrontación de datos y lograr el hallazgo de la víctima.
-              .cajon.color-acento-botones.px-5.py-4.mb-4
-                p.mb-0
-                  strong Registro Nacional de Desaparecidos, 
-                  | en el cual se establece, entre otros asuntos, el deber de reportar al Registro Nacional de Desaparecidos, la información relativa a la ubicación final del cuerpo o restos óseos que permitan su recuperación.
+              .row
+                .col-lg-4.mb-5.mb-lg-0
+                  figure
+                    img(src="@/assets/curso/tema1-imagen16.jpg")
+                .col-lg-8
+                  .cajon.color-acento-botones.px-5.py-4.mb-4
+                    p.mb-0
+                      strong Registro Nacional de Desaparecidos, 
+                      | en el cual se establece, entre otros asuntos, el deber de reportar al Registro Nacional de Desaparecidos, la información relativa a la ubicación final del cuerpo o restos óseos que permitan su recuperación.
             .row(titulo="2009").px-5
               .col-lg-4.mb-5.mb-lg-0
                 figure
@@ -114,10 +119,15 @@
               p.mb-5
                 strong La Ley 1448 del 10 de junio 2011:  
                 | por la cual se dictan medidas de atención, asistencia y reparación integral a las víctimas del conflicto armado interno y se dictan otras disposiciones, a su vez, es importante, los temas de atención, asistencia y reparación integral a las víctimas del conflicto armado, disponiéndose como una medida de satisfacción, entendida como una acción que proporciona bienestar y contribuye a mitigar el dolor de la víctima, el contribuir a la búsqueda de desaparecidos y colaborar con la identificación de los cadáveres y su inhumación posterior, según las indicaciones y tradiciones familiares y comunitarias.
-              .cajon.color-acento-botones.px-5.py-4.mb-4
-                p.mb-0
-                  strong El Decreto 4800 de 2011: 
-                  | desarrolla los temas de Registro único de víctimas, censo de hechos victimizantes, medidas de asistencia y reparación y medidas de reparación integral, con base a lo que se dispone en la <strong>Ley 1448 del 10 de junio 2011</strong>, en la asistencia para la entrega de los cuerpos o restos.
+              .row
+                .col-lg-4.mb-5.mb-lg-0
+                  figure
+                    img(src="@/assets/curso/tema1-imagen17.jpg")
+                .col-lg-8
+                  .cajon.color-acento-botones.px-5.py-4.mb-4
+                    p.mb-0
+                      strong El Decreto 4800 de 2011: 
+                      | desarrolla los temas de Registro único de víctimas, censo de hechos victimizantes, medidas de asistencia y reparación y medidas de reparación integral, con base a lo que se dispone en la <strong>Ley 1448 del 10 de junio 2011</strong>, en la asistencia para la entrega de los cuerpos o restos.
             .row(titulo="2014").px-5
               .col-lg-4.mb-5.mb-lg-0
                 figure
