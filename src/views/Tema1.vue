@@ -77,7 +77,7 @@
               .col-lg-8
                 p.mb-0 
                   strong La Ley 589 del 2000 
-                  | por la cual se tipifica el genocidio, la desaparición forzada, el desplazamiento forzado y la tortura; adicionando estos delitos en el Código Penal Colombiano. Es importante esta norma para el tema que nos ocupa, toda vez que impone una obligación al Gobierno de diseñar y poner en marcha el Registro Nacional de desaparecidos, que incluirá todos los datos de identificación de las personas desaparecidas y de inhumación y exhumación de cadáveres de personas no identificadas.
+                  | por la cual se tipifica el genocidio, la desaparición forzada, el desplazamiento forzado y la tortura; adicionando estos delitos en el Código Penal Colombiano. Es importante esta norma para el tema que nos ocupa, toda vez que impone una obligación al gobierno de diseñar y poner en marcha el registro nacional de desaparecidos, que incluirá todos los datos de identificación de las personas desaparecidas y de inhumación y exhumación de cadáveres de personas no identificadas.
             .row(titulo="2001").px-5
               .col-lg-4.mb-5.mb-lg-0
                 figure
@@ -139,7 +139,7 @@
                   strong Ley 589 de 2000 y el Decreto 589 de 2017  
                   | por el cual se organiza la Unidad de Búsqueda de personas dadas por desaparecidas en el contexto y en razón del conflicto armado.
             .row(titulo="2015").px-5
-              p.mb-5 La <strong>Ley la 1408</strong> fue a su vez reglamentada por <strong>el Decreto 303 de 2015</strong>, que desarrolla los temas de localización, identificación, inhumación y homenaje a las víctimas del delito de desaparición forzada, banco de perfiles genéticos, entrega de cuerpos o restos humanos de víctimas identificadas, atención psicosocial en el proceso de entrega, mapas y conservación de cuerpos o restos humanos no identificados o identificados no reclamados. 
+              p.mb-5 La <strong>Ley 1408</strong> fue a su vez reglamentada por <strong>el Decreto 303 de 2015</strong>, que desarrolla los temas de localización, identificación, inhumación y homenaje a las víctimas del delito de desaparición forzada, banco de perfiles genéticos, entrega de cuerpos o restos humanos de víctimas identificadas, atención psicosocial en el proceso de entrega, mapas y conservación de cuerpos o restos humanos no identificados o identificados no reclamados. 
                 br
                 br
                 | Una buena ayuda de memoria sobre las medidas que se establecen en el <strong>Decreto 303 de 2015</strong> que nos pueden servir como guía en nuestro trabajo para la preservación de los cadáveres no identificados o identificados no reclamados es la siguiente, 7 medidas resumidas así:

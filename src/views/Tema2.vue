@@ -6,7 +6,7 @@
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 Personas no identificadas y personas identificadas no reclamadas en los cementerios
+      h1 Personas no identificadas (PNI) y personas identificadas no reclamadas en los cementerios (PINR)
 
     figure.mb-5(data-aos="fade-in" data-aos-duration="1500")
       img(src="@/assets/curso/tema2-imagen1.png")
@@ -32,7 +32,7 @@
     #t_2_2.titulo-segundo(data-aos="flip-up")
       h2 2.2  Persona identificada no reclamada (PINR)
     
-    p.mb-4(data-aos="fade-in" data-aos-duration="1500") Ya conociendo el concepto de Personas No Identificadas (PNI), se puede abordar un término que se ha venido usando en paralelo a éste y es el de Personas Identificadas No Reclamadas (PINR), se puede profundizar un poco más en el siguiente video: 
+    p.mb-4(data-aos="fade-in" data-aos-duration="1500") Ya conociendo el concepto de Personas No Identificadas (PNI), se puede abordar un término que se ha venido usando en paralelo a este y es el de Personas Identificadas No Reclamadas (PINR), se puede profundizar un poco más en el siguiente video: 
 
     figure.mb-5(data-aos="fade-in" data-aos-duration="1500")
       .video

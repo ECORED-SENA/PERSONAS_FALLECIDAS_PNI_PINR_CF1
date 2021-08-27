@@ -184,7 +184,7 @@ export default {
     {
       termino: 'Cementerio',
       significado:
-        'ugar destino para recibir, alojar los cadáveres y restos humanos, en cualquiera de los espacios adecuados para ello.',
+        'lugar destino para recibir, alojar los cadáveres y restos humanos, en cualquiera de los espacios adecuados para ello.',
     },
     {
       termino: 'Custodia',
